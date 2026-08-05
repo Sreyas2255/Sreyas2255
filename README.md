@@ -17,7 +17,6 @@
 - Machine Learning
 - MLOps
 - Docker
-- Kubernetes
 - CI/CD
 - AWS
 - MLflow
