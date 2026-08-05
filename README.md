@@ -110,7 +110,7 @@ An end-to-end Machine Learning pipeline including:
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sreyas-s-582b61364/
-- 📧 Email: your-email@example.com
+- 📧 Email: sreyas4353@gmail.com
 
 ---
 
