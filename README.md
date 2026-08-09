@@ -1,171 +1,228 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1de9b6&height=220&section=header&text=Hi%20There!%20I'm%20Sreyas%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20MLOps%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Sreyas&fontSize=70&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20MLOps&descAlignY=55&descSize=18&descColor=e0e0e0"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+end-to-end+ML+pipelines+%F0%9F%9A%80;Deploying+Models+to+Production+%E2%9A%99%EF%B8%8F;MLOps+%7C+Docker+%7C+CI%2FCD+%7C+AWS;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1100&color=00E5FF&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+deployed%2C+monitored+models;Building+ML+systems+that+survive+production;MLOps+%7C+Docker+%7C+CI%2FCD+%7C+AWS+%7C+MLflow" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sreyas2255&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-<a href="https://www.linkedin.com/in/sreyas-s-582b61364/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sreyas4353@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/sreyas-s-582b61364/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sreyas4353@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=00E5FF"/></a>
+<a href="https://mlops-pipeline-project-ssnj.onrender.com/docs"><img src="https://img.shields.io/badge/Live_Project-333333?style=for-the-badge&logo=fastapi&logoColor=00E5FF"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sreyas2255&label=Profile+Views&color=00E5FF&style=flat-square"/>
+<img src="https://img.shields.io/badge/Open_to_Work-00E5FF?style=flat-square&labelColor=333333"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 👨‍💻 About Me
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/ChinmoyGhosh/ChinmoyGhosh/master/img/coding.gif">
-
-- 🎓 B.Sc. Computer Science Graduate
-- 💼 Currently working as a **Data Science Intern**
-- 🌱 Currently deep-diving into **MLOps, Docker, CI/CD, AWS, MLflow, DVC, FastAPI**
-- 🚀 Passionate about building end-to-end ML systems and shipping them to production
-- 🔭 Currently building an **automated MLOps pipeline** with full CI/CD + monitoring
-- 💬 Ask me about: ML pipelines, model deployment, MLOps tooling
-- ⚡ Fun fact: I enjoy turning messy data into clean, deployable models
-
-<br clear="both"/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
 
-<br/><br/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/assets/comment/1.gif" width="0" height="0">
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00E5FF,100:0f2027&height=3"/>
+</p>
 
-**Machine Learning**
-<br/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-3B7EA1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+## 👤 About
 
-<br/><br/>
+I'm a Computer Science graduate working as a **Data Science Intern**, focused on the part of ML most people skip: getting models out of the notebook and into something that actually runs reliably in production.
 
-**MLOps & DevOps**
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Feast-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+I like the full lifecycle — cleaning data, training models that generalize, then wrapping them in pipelines that deploy, track, and monitor themselves without hand-holding. Right now I'm sharpening my **MLOps toolkit** — Docker, CI/CD, AWS, MLflow, DVC, FastAPI — so the systems I build are reproducible and easy for a team to pick up.
 
-<br/><br/>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+**🎯 Currently**
+- Data Science Intern
+- Building an automated MLOps pipeline
+- Learning cloud deployment on AWS
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+**🤝 Open to**
+- ML Engineering / MLOps roles
+- Collaboration on deployment projects
+- Conversations on pipelines & tracking
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00E5FF,100:0f2027&height=3"/>
+</p>
+
+## 🛠️ Tech Stack
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=45&text=LANGUAGES&fontSize=16&fontColor=00E5FF&fontAlignY=65" width="100%"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" height="50"/>
+
+`Python` ▰▰▰▰▰▰▰▰▰▱
+`Java` &nbsp;&nbsp;▰▰▰▰▰▱▱▱▱▱
+`C` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▰▰▰▰▱▱▱▱▱▱
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=45&text=MACHINE%20LEARNING&fontSize=16&fontColor=00E5FF&fontAlignY=65" width="100%"/>
+
+<img src="https://skillicons.dev/icons?i=scikitlearn&theme=dark" height="50"/>
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-00E5FF?style=for-the-badge&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-00E5FF?style=for-the-badge&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-00E5FF?style=for-the-badge&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-00E5FF?style=for-the-badge&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-00E5FF?style=for-the-badge&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-00E5FF?style=for-the-badge&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=45&text=MLOPS%20%26%20MONITORING&fontSize=16&fontColor=00E5FF&fontAlignY=65" width="100%"/>
+
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions&theme=dark" height="50"/>
+
+![MLflow](https://img.shields.io/badge/MLflow-00E5FF?style=for-the-badge&logoColor=black)
+![DVC](https://img.shields.io/badge/DVC-00E5FF?style=for-the-badge&logoColor=black)
+![Feast](https://img.shields.io/badge/Feast-00E5FF?style=for-the-badge&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-00E5FF?style=for-the-badge&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-00E5FF?style=for-the-badge&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=45&text=CLOUD%2C%20API%20%26%20DATA&fontSize=16&fontColor=00E5FF&fontAlignY=65" width="100%"/>
+
+<img src="https://skillicons.dev/icons?i=aws,fastapi,mysql,sqlite&theme=dark" height="50"/>
+
+`AWS` &nbsp;&nbsp;▰▰▰▰▰▱▱▱▱▱
+`FastAPI` ▰▰▰▰▰▰▱▱▱▱
+`MySQL` &nbsp;▰▰▰▰▰▰▰▱▱▱
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00E5FF,100:0f2027&height=3"/>
+</p>
 
 ## 🚀 Featured Project
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&text=MLOps%20Pipeline%20Project&fontSize=32&fontColor=00E5FF&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-### 🔗 MLOps Pipeline Project
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=600&lines=%E2%9C%93+ingesting+data...;%E2%9C%93+validating+schema...;%E2%9C%93+engineering+features...;%E2%9C%93+training+model...;%E2%9C%93+logging+to+MLflow...;%E2%9C%93+building+Docker+image...;%E2%9C%93+deploying+via+CI%2FCD...;%E2%9C%93+monitoring+live+%E2%9C%94" />
 
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deployment-Production_Ready-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
+<i>An end-to-end ML pipeline that takes a model from raw data to a live, self-monitoring deployment — with no manual steps in between.</i>
 
-*A fully automated, production-grade Machine Learning pipeline — from raw data to a monitored, deployed model.*
+<a href="https://mlops-pipeline-project-ssnj.onrender.com/docs"><img src="https://img.shields.io/badge/🚀_OPEN_LIVE_DEMO-00E5FF?style=for-the-badge&logoColor=black&labelColor=00E5FF&color=00E5FF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/📂_VIEW_SOURCE-333333?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
 
-<a href="https://mlops-pipeline-project-ssnj.onrender.com/docs"><img src="https://img.shields.io/badge/🚀_Live_Demo-4285F4?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<br/><br/>
 
-</div>
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+
+**9**
+Pipeline Stages
+
+</td>
+<td align="center" width="25%">
+
+**100%**
+Automated
+
+</td>
+<td align="center" width="25%">
+
+**Live**
+Monitoring
+
+</td>
+<td align="center" width="25%">
+
+**Prod**
+Deployed
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<b>The problem</b> — most ML projects work fine in a notebook and fall apart the moment they need to run reliably, retrain on new data, or get monitored in production.
+<br/>
+<b>What I built</b> — a pipeline that removes every manual handoff between "trained a model" and "it's live and being watched."
+</p>
 
 <br/>
 
-**🧩 What it does**
-Takes raw data all the way to a monitored production model with zero manual handoffs — every stage below is automated and versioned.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=1&pause=99999&color=00E5FF&center=false&vCenter=true&width=500&height=30&lines=01+%C2%B7+INGEST+%26+VALIDATE" />
 
-```
-📥 Data Ingestion → 🔍 Validation → ⚙️ Feature Engineering → 🗃️ Feast Feature Store
-        ↓
-🧠 Model Training → 📊 MLflow Tracking → 🐳 Docker Build → 🔁 CI/CD (GitHub Actions)
-        ↓
-🚀 Deployment → 📈 Prometheus + Grafana Monitoring
-```
+Raw data is pulled and checked against a schema before it's allowed anywhere near training — bad data gets caught at the door.
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=1&pause=99999&color=00E5FF&center=false&vCenter=true&width=500&height=30&lines=02+%C2%B7+FEATURE+ENGINEERING" />
 
-| Stage | Purpose | Tooling |
-|:---|:---|:---:|
-| 📥 **Data Ingestion** | Pulls & structures raw data | `Python` |
-| 🔍 **Data Validation** | Catches schema/quality issues early | Custom Validators |
-| ⚙️ **Feature Engineering** | Transforms raw data into model-ready features | `Pandas` `NumPy` |
-| 🗃️ **Feature Store** | Centralized, reusable feature serving | `Feast` |
-| 🧠 **Model Training** | Trains & tunes candidate models | `Scikit-learn` `XGBoost` |
-| 📊 **Experiment Tracking** | Logs metrics, params & artifacts | `MLflow` |
-| 🐳 **Containerization** | Packages the app for consistent deploys | `Docker` |
-| 🔁 **CI/CD Pipeline** | Auto tests & deploys on every push | `GitHub Actions` |
-| 📈 **Monitoring** | Tracks model & system health in real time | `Prometheus` `Grafana` |
+Features are built and served through a **Feast** feature store, so training and live serving always see the exact same data.
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=1&pause=99999&color=00E5FF&center=false&vCenter=true&width=500&height=30&lines=03+%C2%B7+TRAIN+%26+TRACK" />
 
-**✨ Highlights**
-- 🔄 Fully reproducible pipeline — every run is versioned end to end
-- 📦 Containerized for consistent behavior across dev → staging → prod
-- 🚨 Live monitoring dashboards catch model/data drift early
-- ⚡ Push-to-deploy via automated CI/CD, no manual steps
+Candidate models (**Scikit-learn**, **XGBoost**) are trained and compared, with every run's metrics, parameters, and artifacts logged in **MLflow**.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=1&pause=99999&color=00E5FF&center=false&vCenter=true&width=500&height=30&lines=04+%C2%B7+CONTAINERIZE+%26+SHIP" />
+
+The winning model is packaged with **Docker** and pushed through a **GitHub Actions** CI/CD pipeline — push to main, and it deploys itself.
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=1&pause=99999&color=00E5FF&center=false&vCenter=true&width=500&height=30&lines=05+%C2%B7+MONITOR+IN+PRODUCTION" />
+
+**Prometheus** and **Grafana** watch the live model for drift, latency, and failures, so problems surface before they become outages.
+
+<p align="center">
+<b>Why it matters</b> — this mirrors how ML actually runs in industry: versioned, reproducible, and observable, not a script that only works on one machine.
+</p>
+
+<p align="center">
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00E5FF,100:0f2027&height=3"/>
+</p>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sreyas2255&show_icons=true&theme=tokyonight&border_radius=10&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyas2255&layout=compact&theme=tokyonight&border_radius=10"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sreyas2255&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyas2255&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9" height="165"/>
 
-<br/>
+<img src="https://streak-stats.demolab.com/?user=Sreyas2255&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
 
-<img src="https://streak-stats.demolab.com/?user=Sreyas2255&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreyas2255&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sreyas2255&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreyas2255&bg_color=0d1117&color=00E5FF&line=00E5FF&point=ffffff&hide_border=true&area=true" width="100%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<p align="center">
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00E5FF,100:0f2027&height=3"/>
+</p>
 
 <div align="center">
 
 ## 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/sreyas-s-582b61364/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sreyas4353@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sreyas-s-582b61364/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sreyas4353@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-333333?style=for-the-badge&logo=gmail&logoColor=00E5FF"/></a>
 
 <br/><br/>
 
-### 💡 *"Keep Learning. Keep Building. Keep Improving."*
+<sub>Keep Learning · Keep Building · Keep Improving</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1de9b6,100:0e75b6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </div>
-
-<!--
-**Sreyas2255/Sreyas2255** is a special repository because its README.md appears on your GitHub profile.
--->
