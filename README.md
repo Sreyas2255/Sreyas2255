@@ -79,24 +79,52 @@
 <div align="center">
 
 ### 🔗 MLOps Pipeline Project
-*An end-to-end, production-grade Machine Learning pipeline*
-
-| Stage | Tool/Tech |
-|---|---|
-| ✅ Data Ingestion | Python |
-| ✅ Data Validation | Custom Validators |
-| ✅ Feature Engineering | Pandas / NumPy |
-| ✅ Feature Store | Feast |
-| ✅ Model Training | Scikit-learn / XGBoost |
-| ✅ Experiment Tracking | MLflow |
-| ✅ Containerization | Docker |
-| ✅ CI/CD Pipeline | GitHub Actions |
-| ✅ Monitoring | Prometheus & Grafana |
 
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deployment-Production_Ready-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
+
+*A fully automated, production-grade Machine Learning pipeline — from raw data to a monitored, deployed model.*
+
+<a href="https://mlops-pipeline-project-ssnj.onrender.com/docs"><img src="https://img.shields.io/badge/🚀_Live_Demo-4285F4?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
+
+<br/>
+
+**🧩 What it does**
+Takes raw data all the way to a monitored production model with zero manual handoffs — every stage below is automated and versioned.
+
+```
+📥 Data Ingestion → 🔍 Validation → ⚙️ Feature Engineering → 🗃️ Feast Feature Store
+        ↓
+🧠 Model Training → 📊 MLflow Tracking → 🐳 Docker Build → 🔁 CI/CD (GitHub Actions)
+        ↓
+🚀 Deployment → 📈 Prometheus + Grafana Monitoring
+```
+
+<div align="center">
+
+| Stage | Purpose | Tooling |
+|:---|:---|:---:|
+| 📥 **Data Ingestion** | Pulls & structures raw data | `Python` |
+| 🔍 **Data Validation** | Catches schema/quality issues early | Custom Validators |
+| ⚙️ **Feature Engineering** | Transforms raw data into model-ready features | `Pandas` `NumPy` |
+| 🗃️ **Feature Store** | Centralized, reusable feature serving | `Feast` |
+| 🧠 **Model Training** | Trains & tunes candidate models | `Scikit-learn` `XGBoost` |
+| 📊 **Experiment Tracking** | Logs metrics, params & artifacts | `MLflow` |
+| 🐳 **Containerization** | Packages the app for consistent deploys | `Docker` |
+| 🔁 **CI/CD Pipeline** | Auto tests & deploys on every push | `GitHub Actions` |
+| 📈 **Monitoring** | Tracks model & system health in real time | `Prometheus` `Grafana` |
+
+</div>
+
+**✨ Highlights**
+- 🔄 Fully reproducible pipeline — every run is versioned end to end
+- 📦 Containerized for consistent behavior across dev → staging → prod
+- 🚨 Live monitoring dashboards catch model/data drift early
+- ⚡ Push-to-deploy via automated CI/CD, no manual steps
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -140,14 +168,4 @@
 
 <!--
 **Sreyas2255/Sreyas2255** is a special repository because its README.md appears on your GitHub profile.
--->
-
----
-
-<p align="center">
-  <em>"Keep Learning. Keep Building. Keep Improving."</em>
-</p>
-
-<!--
-**Sreyas2255/Sreyas2255** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
