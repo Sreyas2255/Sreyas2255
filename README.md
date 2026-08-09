@@ -1,107 +1,146 @@
-<h1 align="center">Hi 👋, I'm Sreyas</h1>
-<h3 align="center">Data Science Enthusiast | Machine Learning | MLOps | Python Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sreyas2255&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/sreyas-s-582b61364/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sreyas4353@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1de9b6&height=220&section=header&text=Hi%20There!%20I'm%20Sreyas%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20MLOps%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+end-to-end+ML+pipelines;Learning+MLOps+%7C+Docker+%7C+CI%2FCD;Deploying+Models+to+Production" alt="Typing SVG"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+end-to-end+ML+pipelines+%F0%9F%9A%80;Deploying+Models+to+Production+%E2%9A%99%EF%B8%8F;MLOps+%7C+Docker+%7C+CI%2FCD+%7C+AWS;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG"/>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=Sreyas2255&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/sreyas-s-582b61364/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sreyas4353@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 👨‍💻 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/ChinmoyGhosh/ChinmoyGhosh/master/img/coding.gif">
 
 - 🎓 B.Sc. Computer Science Graduate
 - 💼 Currently working as a **Data Science Intern**
-- 🌱 Currently learning: Machine Learning, MLOps, Docker, CI/CD, AWS, MLflow, DVC, FastAPI
-- 🚀 Passionate about building end-to-end Machine Learning applications and deploying them in production
-- 💬 Ask me about: ML pipelines, model deployment, or MLOps tooling
+- 🌱 Currently deep-diving into **MLOps, Docker, CI/CD, AWS, MLflow, DVC, FastAPI**
+- 🚀 Passionate about building end-to-end ML systems and shipping them to production
+- 🔭 Currently building an **automated MLOps pipeline** with full CI/CD + monitoring
+- 💬 Ask me about: ML pipelines, model deployment, MLOps tooling
+- ⚡ Fun fact: I enjoy turning messy data into clean, deployable models
 
----
+<br clear="both"/>
 
-### 🛠️ Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
+
+<br/><br/>
 
 **Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-3B7EA1?style=flat"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat"/>
-</p>
+<br/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-3B7EA1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
 
-**MLOps**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Feast-FF6F00?style=flat"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
-</p>
+<br/><br/>
+
+**MLOps & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Feast-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<br/><br/>
 
 **Databases**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
----
+</div>
 
-### 🚀 Featured Project
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-**MLOps Pipeline Project**
-An end-to-end Machine Learning pipeline including:
+## 🚀 Featured Project
 
-- ✔ Data Ingestion
-- ✔ Data Validation
-- ✔ Feature Engineering
-- ✔ Feature Store (Feast)
-- ✔ Model Training
-- ✔ MLflow Experiment Tracking
-- ✔ Docker Containerization
-- ✔ CI/CD Pipeline
-- ✔ Monitoring with Prometheus & Grafana
+<div align="center">
 
----
+### 🔗 MLOps Pipeline Project
+*An end-to-end, production-grade Machine Learning pipeline*
 
-### 📊 GitHub Stats
+| Stage | Tool/Tech |
+|---|---|
+| ✅ Data Ingestion | Python |
+| ✅ Data Validation | Custom Validators |
+| ✅ Feature Engineering | Pandas / NumPy |
+| ✅ Feature Store | Feast |
+| ✅ Model Training | Scikit-learn / XGBoost |
+| ✅ Experiment Tracking | MLflow |
+| ✅ Containerization | Docker |
+| ✅ CI/CD Pipeline | GitHub Actions |
+| ✅ Monitoring | Prometheus & Grafana |
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sreyas2255&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyas2255&layout=compact&theme=tokyonight"/>
-</p>
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deployment-Production_Ready-blue?style=for-the-badge"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sreyas2255&theme=tokyonight"/>
-</p>
+</div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 📫 Connect with Me
+## 📊 GitHub Analytics
 
-- 💼 LinkedIn: [sreyas-s](https://www.linkedin.com/in/sreyas-s-582b61364/)
-- 📧 Email: sreyas4353@gmail.com
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sreyas2255&show_icons=true&theme=tokyonight&border_radius=10&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyas2255&layout=compact&theme=tokyonight&border_radius=10"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Sreyas2255&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreyas2255&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sreyas2255&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<div align="center">
+
+## 📫 Let's Connect
+
+<a href="https://www.linkedin.com/in/sreyas-s-582b61364/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sreyas4353@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+### 💡 *"Keep Learning. Keep Building. Keep Improving."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1de9b6,100:0e75b6&height=100&section=footer" width="100%"/>
+
+</div>
+
+<!--
+**Sreyas2255/Sreyas2255** is a special repository because its README.md appears on your GitHub profile.
+-->
 
 ---
 
