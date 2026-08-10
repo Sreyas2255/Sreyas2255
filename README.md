@@ -67,7 +67,7 @@ I care about the whole lifecycle — clean data, models that generalize, and pip
 
 **Languages**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="50"/>
 
 <br/><br/>
 
