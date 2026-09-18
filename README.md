@@ -36,6 +36,7 @@ I care about the whole lifecycle — clean data, models that generalize, and pip
 **🎯 Currently**
 - Data Science Intern
 - Building an automated MLOps pipeline
+- Building a hybrid RAG retrieval system
 - Learning cloud deployment on AWS
 
 </td>
@@ -94,6 +95,16 @@ I care about the whole lifecycle — clean data, models that generalize, and pip
 
 <br/><br/>
 
+**AI / LLM & Retrieval**
+<br/><br/>
+<img src="https://img.shields.io/badge/LangChain-1e293b?style=for-the-badge&logo=langchain&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/ChromaDB-1e293b?style=for-the-badge&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/HuggingFace-1e293b?style=for-the-badge&logo=huggingface&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/Groq-1e293b?style=for-the-badge&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/BM25-1e293b?style=for-the-badge"/>
+
+<br/><br/>
+
 **Databases**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" height="50"/>
@@ -102,44 +113,40 @@ I care about the whole lifecycle — clean data, models that generalize, and pip
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:34d399,100:0f172a&height=3"/>
 
-## 🚀 Featured Project
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=140&text=MLOps%20Pipeline%20Project&fontSize=30&fontColor=34d399&fontAlignY=45&animation=fadeIn" width="100%"/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2000&pause=500&color=34D399&center=true&vCenter=true&width=620&lines=%E2%9C%93+ingesting+data...;%E2%9C%93+validating+schema...;%E2%9C%93+engineering+features...;%E2%9C%93+training+model...;%E2%9C%93+logging+to+MLflow...;%E2%9C%93+building+Docker+image...;%E2%9C%93+deploying+via+CI%2FCD...;%E2%9C%93+monitoring+live+%E2%9C%94" />
-
-*An end-to-end ML pipeline that takes a model from raw data to a live, self-monitoring deployment — no manual steps in between.*
-
-<a href="https://mlops-pipeline-project-ssnj.onrender.com/docs"><img src="https://img.shields.io/badge/🚀_OPEN_LIVE_DEMO-34D399?style=for-the-badge&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/📂_VIEW_SOURCE-1e293b?style=for-the-badge&logo=github&logoColor=34D399"/></a>
-
-<br/><br/>
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
-<td align="center" width="25%"><b>9</b><br/>Pipeline Stages</td>
-<td align="center" width="25%"><b>100%</b><br/>Automated</td>
-<td align="center" width="25%"><b>Live</b><br/>Monitoring</td>
-<td align="center" width="25%"><b>Prod</b><br/>Deployed</td>
+<td width="50%" valign="top">
+
+### MLOps Pipeline Project
+**End-to-end ML pipeline — from raw data to a live, self-monitoring deployment.**
+
+Removes every manual handoff between "trained a model" and "it's live and being watched": data is validated against a schema, features are served through a Feast feature store, models are trained and tracked in MLflow, the winner is containerized and shipped via GitHub Actions, and Prometheus/Grafana watch it in production for drift and failures.
+
+`Docker` `MLflow` `Feast` `GitHub Actions` `Prometheus` `Grafana` `Scikit-learn` `XGBoost`
+
+**Status:** Deployed · 9 stages · fully automated
+
+[Live Demo](https://mlops-pipeline-project-ssnj.onrender.com/docs) · [Source](#)
+
+</td>
+<td width="50%" valign="top">
+
+### RAG-Hybrid-Search
+**Hybrid dense + sparse retrieval pipeline for RAG.**
+
+Runs dense (ChromaDB, `all-MiniLM-L6-v2`) and sparse (BM25) retrieval in parallel and fuses the results with Reciprocal Rank Fusion, so answers draw on both semantic meaning and exact keyword matches before generation with Groq's `llama-3.3-70b-versatile`.
+
+`LangChain` `ChromaDB` `BM25` `RRF` `HuggingFace` `Groq`
+
+**Status:** Completed
+
+[Source](#)
+
+</td>
 </tr>
 </table>
-
-</div>
-
-**The problem:** most ML projects work in a notebook and fall apart the moment they need to run reliably, retrain, or get monitored in production.
-**What I built:** a pipeline that removes every manual handoff between "trained a model" and "it's live and being watched."
-
-| Stage | What happens |
-|:---|:---|
-| 📥 **01 · Ingest & Validate** | Raw data is pulled and checked against a schema before it's allowed near training |
-| ⚙️ **02 · Feature Engineering** | Features are built and served through a **Feast** feature store, keeping training and serving in sync |
-| 🧠 **03 · Train & Track** | **Scikit-learn** / **XGBoost** models are trained and compared, with every run logged in **MLflow** |
-| 🐳 **04 · Containerize & Ship** | The winning model is packaged with **Docker** and shipped via **GitHub Actions** CI/CD |
-| 📈 **05 · Monitor in Production** | **Prometheus** & **Grafana** watch the live model for drift, latency, and failures |
-
-**Why it matters:** this mirrors how ML actually runs in industry — versioned, reproducible, and observable.
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:34d399,100:0f172a&height=3"/>
 
